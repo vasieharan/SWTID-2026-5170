@@ -9,11 +9,11 @@ conditions before granting access, and users can access the record only when the
 ## Team
 | Name | Role |
 |------|------|
-| Shanmugapriya B | Team Lead - Project planning, architecture and ACL scripting |
-| Shrivinoj Karthikeyan | Member - Tables creation and READ / CREATE ACLs |
-| Mohammed Ameen S | Member - WRITE / DELETE ACLs and testing |
-| Srinithi T | Member - Users and roles setup, documentation |
-
+| SHANELEE M| Team Lead - Project planning, Users Creation |
+| SRIVISHAL M| Member - Tables creation and READ / ROLE OF CREATION |
+| VASIEHARAN R | Member - ACL Configuration/Creation of ACL-Create |
+| VASANTHA KUMAR R | Member -Creation of ACL-Write/Creation of ACL-DELETE  |
+| VEERA DHIVAGER M | Member -Project Outcome 
 Team ID: SWTID-2026-5170
 
 ## Milestones
